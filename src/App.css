@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.logoimg{
+  background-image: url('./Components/MainSectionComponents/logoimg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* .logoimg2{
+  background-image: url('./Components/MainSectionComponents/logoimg2.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
